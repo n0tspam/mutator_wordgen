@@ -16,7 +16,7 @@ optional arguments:
   -i INTMAX, --incmax INTMAX
                         Range of integers from 0 to <value>
   -p PADMAX, --padmax PADMAX
-                        Range of integers with padded value from 00 to
+                        (Range of integers with padded value from 00 to
                         <value>)
   -s START_YEAR, --start START_YEAR
                         Takes 4 digits to represent a year, and increments up
